@@ -224,7 +224,7 @@ function Kavo.CreateLib(kavName, themeList)
     hideUI.BackgroundColor3 = Color3.fromRGB(0, 255, 127)
     hideUI.BackgroundTransparency = 1
     hideUI.ClipsDescendants = true
-    hideUI.Position = UDim2.new(0.23, 1, -0.11, 1)
+    hideUI.Position = UDim2.new(0.23, 1, 0, 1)
     hideUI.Size = UDim2.new(0, 50, 0, 50)
     hideUI.Image = "http://www.roblox.com/asset/?id=14208692008"
     hideUI.Visible = false
